@@ -7,6 +7,7 @@ ID : 700728443
 Summary of ICP_1:
 
 This Assignment has 3 questions to be solved using python program.
+
 1a).  Input the string "Python" as a list of characters from console, delete at least 2 characters, reverse the resultant string and print it.
   
       Input string is accepted from console.Replace string function is used to delete characters and slicing to reverese the string. Program will raise exception if input string is empty or if at least 2 characters are not deleted.
