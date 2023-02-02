@@ -15,3 +15,6 @@ This Assignment has 2 questions to be solved using python pandas,sklearn and mat
 2). Linear Regression
 
     Train the given dataset Salary_Data.csv using linear regression model and predict the salary and calculate mean square error.Also plot the graph for training and test data.
+
+
+Video Link : https://drive.google.com/file/d/1mwuixv1Vi6b-mqfdikMiLWVT-Hn7LHXD/view?usp=share_link
