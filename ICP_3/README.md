@@ -27,3 +27,7 @@ This Assignment has 2 questions to be solved using python classes and Numpy.
     Then reshape the array to 4 by 5
     
     Then replace the max in each row by 0 (axis=1)
+    
+   
+Video Link :  https://drive.google.com/file/d/1csNRtMZhBO3eKjzcY0NB97SlC6ly77aj/view?usp=sharing
+
