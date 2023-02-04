@@ -18,6 +18,8 @@ ICP_2 : https://github.com/jxc84430/NeuralNetworks/tree/main/ICP_2
 
 ICP_3 : https://github.com/jxc84430/NeuralNetworks/tree/main/ICP_3
 
+Video Link : https://drive.google.com/file/d/1csNRtMZhBO3eKjzcY0NB97SlC6ly77aj/view?usp=sharing
+
 ------------------------------------------------------------------
 
 ICP_4 : https://github.com/jxc84430/NeuralNetworks/tree/main/ICP_4
