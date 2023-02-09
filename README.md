@@ -27,3 +27,6 @@ ICP_4 : https://github.com/jxc84430/NeuralNetworks/tree/main/ICP_4
 Video Link : https://drive.google.com/file/d/1mwuixv1Vi6b-mqfdikMiLWVT-Hn7LHXD/view?usp=share_link
 
 ------------------------------------------------------------------
+
+ICP_5 : https://github.com/jxc84430/NeuralNetworks/tree/main/ICP_5
+
