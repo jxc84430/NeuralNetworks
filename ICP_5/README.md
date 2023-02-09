@@ -20,4 +20,5 @@ This Assignment has 2 questions to be solved using python pandas,sklearn and mat
   
      Support Vector Machine is giving better accuracy.For this particular dataset navies bayes is having low accuray.It may be due to Naive Bayes classifier assumes that the presence of a particular feature in aclass is unrelated to the presence of any other feature.
      
-  Video Link :
+  Video Link : Video Link : https://drive.google.com/file/d/1nJMGgp7V7iEutqttETQytzEiP0mX7ab3/view?usp=sharing
+  
