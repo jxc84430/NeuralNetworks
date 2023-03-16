@@ -37,3 +37,5 @@ Use Image Classification on the hand written digits data set (mnist)
 4. Run the same code without scaling the images and check the performance?
 
     without scaling accuracy is changed to 96% from 98%
+    
+Video Link : https://drive.google.com/file/d/1RovDNchp1hvdmgVRkF0spkHMYjMXu_h4/view?usp=sharing
