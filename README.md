@@ -32,3 +32,8 @@ ICP_5 : https://github.com/jxc84430/NeuralNetworks/tree/main/ICP_5
 
 Video Link : https://drive.google.com/file/d/1nJMGgp7V7iEutqttETQytzEiP0mX7ab3/view?usp=sharing
 
+------------------------------------------------------------------
+
+ICP_6 : https://github.com/jxc84430/NeuralNetworks/tree/main/ICP_6
+
+Video Link : https://drive.google.com/file/d/1RovDNchp1hvdmgVRkF0spkHMYjMXu_h4/view?usp=sharing
