@@ -38,3 +38,5 @@ This Assignment is on Image Classification with CNN using keras.
 3. Visualize Loss and Accuracy using the history object
 
       Plotted the graph using matplotlib
+      
+Video Link : https://drive.google.com/file/d/1OI_zXMdmyp7a5clz3E9LPAXzKxU7Htqd/view?usp=sharing
