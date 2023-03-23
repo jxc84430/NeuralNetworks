@@ -42,4 +42,5 @@ Video Link : https://drive.google.com/file/d/1RovDNchp1hvdmgVRkF0spkHMYjMXu_h4/v
 
 ICP_7 : https://github.com/jxc84430/NeuralNetworks/tree/main/ICP_7
 
-Video Link :
+Video Link : https://drive.google.com/file/d/1OI_zXMdmyp7a5clz3E9LPAXzKxU7Htqd/view?usp=sharing
+
