@@ -44,3 +44,15 @@ ICP_7 : https://github.com/jxc84430/NeuralNetworks/tree/main/ICP_7
 
 Video Link : https://drive.google.com/file/d/1OI_zXMdmyp7a5clz3E9LPAXzKxU7Htqd/view?usp=sharing
 
+------------------------------------------------------------------
+
+ICP_8 : https://github.com/jxc84430/NeuralNetworks/tree/main/ICP_8
+
+Video Link : 
+
+------------------------------------------------------------------
+
+ICP_9 : https://github.com/jxc84430/NeuralNetworks/tree/main/ICP_9
+
+Video Link :
+
