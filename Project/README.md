@@ -1,3 +1,9 @@
+Spring 2023 : CS5720 Neural Networks & Deep Learning
+
+Name : Jahnavi Chadalavada
+
+ID : 700728443
+
 This project is an empirical valuation, considering YouTube videos as the primary dataset, and trying to identify features influencing video engagement.
 
 Diabetes-related videos are collected from YouTube and their metadata using YouTube Data API.
